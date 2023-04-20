@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawitsisayy&label=Profile%20views&color=0e75b6&style=flat" alt="dawitsisayy" /> </p>
 
-- 🌱 I’m currently learning **Cloud devops**
+- 🌱 I’m currently looking for **Cloud devops jobs**
 
 - 💬 Ask me about **Python, Excel,SQL**
 
