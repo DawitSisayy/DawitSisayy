@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dawit Sisay</h1>
-<h3 align="center">A passionate cloud developer and data analyst</h3>
+<h3 align="center"> I am passionate in cloud and data science</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761182fb4110b8fb17814fd18a065530332de25612f8&rid=giphy.gif&ct=g">
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawitsisayy&label=Profile%20views&color=0e75b6&style=flat" alt="dawitsisayy" /> </p>
 
-- 🌱 I’m currently looking for **Cloud devops jobs**
+- 🌱 I’m currently looking for **Cloud jobs**
 
-- 💬 Ask me about **Python, Excel,SQL**
+- 💬 Ask me about **Python, Excel,SQL, PowerBi**
 
 - 📫 How to reach me **dawitsisay42@gmail.com**
 
